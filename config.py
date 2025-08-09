@@ -4,34 +4,34 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "27567486"))
+API_ID = int(os.environ.get("API_ID", "24869695"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","b1760d4b5ef697bb8da4e7ac4e261c49")
+API_HASH = os.environ.get("API_HASH","5ee98927939d175ca953297fbe309f37")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8054981115:AAEexuU-cWgy-6wwzLuz8xTGP19tVkfrYEg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8498939480:AAHQKaR8thRBq53CsRrKH20xVlK8zDNMg7g")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@aaaaanimaltxtbot")
-BOT_TEXT = "newtxtbot"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Nikhilbhaiextractorbot")
+BOT_TEXT = "NIKHIL BHAI 💎 EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7780806801"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7445620075"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002770753690"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002702049353"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002471859014")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002715248394")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://editingtution99:kLKimOFEX1MN1v0G@cluster0.fxbujjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002770077524"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002284279185"))
 # -----------------------------------------------
-join = '<a href="https://t.me/Alphasto_09_bot">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/NK08BOT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "newtxtbot" #without @
+ADMIN_BOT_USERNAME = "NK08BOT" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/black-car-is-driving-down-road_951586-147043.jpg")
 
