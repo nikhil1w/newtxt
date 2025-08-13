@@ -8,10 +8,10 @@ API_ID = int(os.environ.get("API_ID", "24869695"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","5ee98927939d175ca953297fbe309f37")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8184748172:AAE1lT0MpPhS7yJu_PHxbPVMcea3Zkr7Vk0")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8474139718:AAGxbmy7GilCQ6cFgbmE_jdEM3H_LzDKXSE")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Newuplnikbot")
-BOT_TEXT = "New Bot"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Extractwithnikbot")
+BOT_TEXT = "Extractor Bot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7445620075"))
 # ------------------------------------------------
